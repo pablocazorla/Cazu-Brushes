@@ -3,13 +3,12 @@
 &lt;root type="map"&gt;
   &lt;CPLLastApp type="integer"&gt;0&lt;/CPLLastApp&gt;
   &lt;CPLLastPosition type="map"&gt;
-    &lt;X type="integer"&gt;-1&lt;/X&gt;
-    &lt;Y type="integer"&gt;-1&lt;/Y&gt;
+    &lt;X type="integer"&gt;434&lt;/X&gt;
+    &lt;Y type="integer"&gt;307&lt;/Y&gt;
     &lt;Z type="integer"&gt;0&lt;/Z&gt;
   &lt;/CPLLastPosition&gt;
   &lt;CPLLastTabPane type="integer"&gt;0&lt;/CPLLastTabPane&gt;
-  &lt;CPLOpened type="string"&gt;Sat Dec 01 22:05:56 2012
-&lt;/CPLOpened&gt;
+  &lt;CPLOpened type="string"&gt;Tue Feb 05 01:11:33 2013&lt;/CPLOpened&gt;
   &lt;DisplayAsserts type="bool"&gt;false&lt;/DisplayAsserts&gt;
   &lt;DriverOn1Off0 type="bool"&gt;true&lt;/DriverOn1Off0&gt;
   &lt;ImportFileVersion type="integer"&gt;4&lt;/ImportFileVersion&gt;
@@ -2217,7 +2216,7 @@
       &lt;TabletAppTouchFunctions type="array"/&gt;
       &lt;TabletCommInterface type="map"&gt;
         &lt;BTDeviceAddress type="string"/&gt;
-        &lt;CommPort type="string"&gt;\\?\HID#VID_056A&amp;amp;PID_00B9&amp;amp;COL02#7&amp;amp;199052E7&amp;amp;0&amp;amp;0001#{4D1E55B2-F16F-11CF-88CB-001111000030}&lt;/CommPort&gt;
+        &lt;CommPort type="string"&gt;\\?\HID#VID_056A&amp;amp;PID_00B9&amp;amp;COL02#7&amp;amp;BE30E63&amp;amp;0&amp;amp;0001#{4D1E55B2-F16F-11CF-88CB-001111000030}&lt;/CommPort&gt;
       &lt;/TabletCommInterface&gt;
       &lt;TabletControlContainerArray type="array"&gt;
         &lt;ArrayElement type="map"&gt;
@@ -2258,6 +2257,12 @@
             &lt;ArrayElement type="map"&gt;
               &lt;ButtonFunction type="integer"&gt;33&lt;/ButtonFunction&gt;
               &lt;ButtonName type="string"&gt;LeftButton8&lt;/ButtonName&gt;
+              &lt;Usage type="map"&gt;
+                &lt;EButtonPanning type="map"&gt;
+                  &lt;Count type="integer"&gt;1&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Wed Dec 12 19:04:32 2012&lt;/Last&gt;
+                &lt;/EButtonPanning&gt;
+              &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
           &lt;/TabletControlsButtonsArray&gt;
           &lt;TabletControlsModButtonsArray type="array"/&gt;
@@ -2321,8 +2326,7 @@
               &lt;Usage type="map"&gt;
                 &lt;ERadialMenu type="map"&gt;
                   &lt;Count type="integer"&gt;5&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:20:29 2012
-&lt;/Last&gt;
+                  &lt;Last type="string"&gt;Sat Dec 01 22:20:29 2012&lt;/Last&gt;
                 &lt;/ERadialMenu&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2333,9 +2337,8 @@
               &lt;Keystroke type="kestring"&gt;&lt;![CDATA[e]]&gt;&lt;/Keystroke&gt;
               &lt;Usage type="map"&gt;
                 &lt;EKeystrokes type="map"&gt;
-                  &lt;Count type="integer"&gt;1&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:09:04 2012
-&lt;/Last&gt;
+                  &lt;Count type="integer"&gt;324&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Fri Feb 15 21:53:16 2013&lt;/Last&gt;
                 &lt;/EKeystrokes&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2346,9 +2349,8 @@
               &lt;Keystroke type="kestring"&gt;&lt;![CDATA[b]]&gt;&lt;/Keystroke&gt;
               &lt;Usage type="map"&gt;
                 &lt;EKeystrokes type="map"&gt;
-                  &lt;Count type="integer"&gt;1&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:09:53 2012
-&lt;/Last&gt;
+                  &lt;Count type="integer"&gt;723&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Fri Feb 15 21:57:53 2013&lt;/Last&gt;
                 &lt;/EKeystrokes&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2359,9 +2361,8 @@
               &lt;Keystroke type="kestring"&gt;&lt;![CDATA[p]]&gt;&lt;/Keystroke&gt;
               &lt;Usage type="map"&gt;
                 &lt;EKeystrokes type="map"&gt;
-                  &lt;Count type="integer"&gt;2&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:11:42 2012
-&lt;/Last&gt;
+                  &lt;Count type="integer"&gt;217&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Fri Feb 15 21:27:04 2013&lt;/Last&gt;
                 &lt;/EKeystrokes&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2370,9 +2371,8 @@
               &lt;ButtonName type="string"&gt;LeftButton5&lt;/ButtonName&gt;
               &lt;Usage type="map"&gt;
                 &lt;EButtonPanning type="map"&gt;
-                  &lt;Count type="integer"&gt;1&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:12:47 2012
-&lt;/Last&gt;
+                  &lt;Count type="integer"&gt;79&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Thu Feb 14 21:07:31 2013&lt;/Last&gt;
                 &lt;/EButtonPanning&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2382,9 +2382,8 @@
               &lt;Modifier type="kestring"&gt;&lt;![CDATA[&amp;control;]]&gt;&lt;/Modifier&gt;
               &lt;Usage type="map"&gt;
                 &lt;EModifiers type="map"&gt;
-                  &lt;Count type="integer"&gt;1&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:12:49 2012
-&lt;/Last&gt;
+                  &lt;Count type="integer"&gt;9&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Tue Feb 05 00:14:29 2013&lt;/Last&gt;
                 &lt;/EModifiers&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2394,9 +2393,8 @@
               &lt;Modifier type="kestring"&gt;&lt;![CDATA[&amp;shift;]]&gt;&lt;/Modifier&gt;
               &lt;Usage type="map"&gt;
                 &lt;EModifiers type="map"&gt;
-                  &lt;Count type="integer"&gt;2&lt;/Count&gt;
-                  &lt;Last type="string"&gt;Sat Dec 01 22:12:51 2012
-&lt;/Last&gt;
+                  &lt;Count type="integer"&gt;11&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Fri Feb 15 20:22:41 2013&lt;/Last&gt;
                 &lt;/EModifiers&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2406,7 +2404,8 @@
               &lt;Modifier type="kestring"&gt;&lt;![CDATA[&amp;alt;]]&gt;&lt;/Modifier&gt;
               &lt;Usage type="map"&gt;
                 &lt;EModifiers type="map"&gt;
-                  &lt;Count type="integer"&gt;0&lt;/Count&gt;
+                  &lt;Count type="integer"&gt;3194&lt;/Count&gt;
+                  &lt;Last type="string"&gt;Fri Feb 15 21:44:47 2013&lt;/Last&gt;
                 &lt;/EModifiers&gt;
               &lt;/Usage&gt;
             &lt;/ArrayElement&gt;
@@ -2439,7 +2438,7 @@
               &lt;mode3 type="map"&gt;
                 &lt;TouchStripDirection type="integer"&gt;-1&lt;/TouchStripDirection&gt;
                 &lt;TouchStripEnableTapZones type="bool"&gt;false&lt;/TouchStripEnableTapZones&gt;
-                &lt;TouchStripFunction type="integer"&gt;51&lt;/TouchStripFunction&gt;
+                &lt;TouchStripFunction type="integer"&gt;47&lt;/TouchStripFunction&gt;
                 &lt;TouchStripKeystrokeDecrease type="kestring"&gt;&lt;![CDATA[¡]]&gt;&lt;/TouchStripKeystrokeDecrease&gt;
                 &lt;TouchStripKeystrokeIncrease type="kestring"&gt;&lt;![CDATA[']]&gt;&lt;/TouchStripKeystrokeIncrease&gt;
                 &lt;TouchStripKeystrokeName type="string"&gt;Tamaño de pincel&lt;/TouchStripKeystrokeName&gt;
@@ -2518,6 +2517,12 @@
             &lt;PressureResolution type="integer"&gt;2047&lt;/PressureResolution&gt;
             &lt;PressureSafteyMargin type="integer"&gt;2&lt;/PressureSafteyMargin&gt;
             &lt;UpperPressureThreshold type="integer"&gt;81&lt;/UpperPressureThreshold&gt;
+            &lt;Usage type="map"&gt;
+              &lt;EAutoErase type="map"&gt;
+                &lt;Count type="integer"&gt;1&lt;/Count&gt;
+                &lt;Last type="string"&gt;Tue Jan 08 20:00:44 2013&lt;/Last&gt;
+              &lt;/EAutoErase&gt;
+            &lt;/Usage&gt;
           &lt;/TransducerEraserSettings&gt;
           &lt;TransducerID type="map"&gt;
             &lt;Design type="integer"&gt;16&lt;/Design&gt;
@@ -2539,9 +2544,8 @@
             &lt;UpperPressureThreshold type="integer"&gt;81&lt;/UpperPressureThreshold&gt;
             &lt;Usage type="map"&gt;
               &lt;ELeftClick type="map"&gt;
-                &lt;Count type="integer"&gt;149&lt;/Count&gt;
-                &lt;Last type="string"&gt;Sat Dec 01 22:20:09 2012
-&lt;/Last&gt;
+                &lt;Count type="integer"&gt;290&lt;/Count&gt;
+                &lt;Last type="string"&gt;Fri Feb 15 21:15:49 2013&lt;/Last&gt;
               &lt;/ELeftClick&gt;
             &lt;/Usage&gt;
           &lt;/TransducerTipButtonSettings&gt;
@@ -2567,6 +2571,12 @@
             &lt;PressureResolution type="integer"&gt;2047&lt;/PressureResolution&gt;
             &lt;PressureSafteyMargin type="integer"&gt;2&lt;/PressureSafteyMargin&gt;
             &lt;UpperPressureThreshold type="integer"&gt;81&lt;/UpperPressureThreshold&gt;
+            &lt;Usage type="map"&gt;
+              &lt;EAutoErase type="map"&gt;
+                &lt;Count type="integer"&gt;39&lt;/Count&gt;
+                &lt;Last type="string"&gt;Wed Feb 13 21:05:30 2013&lt;/Last&gt;
+              &lt;/EAutoErase&gt;
+            &lt;/Usage&gt;
           &lt;/TransducerEraserSettings&gt;
           &lt;TransducerID type="map"&gt;
             &lt;Design type="integer"&gt;16&lt;/Design&gt;
@@ -2578,9 +2588,8 @@
             &lt;ButtonName type="string"&gt;barrel&lt;/ButtonName&gt;
             &lt;Usage type="map"&gt;
               &lt;ERightClick type="map"&gt;
-                &lt;Count type="integer"&gt;1&lt;/Count&gt;
-                &lt;Last type="string"&gt;Sat Dec 01 22:07:21 2012
-&lt;/Last&gt;
+                &lt;Count type="integer"&gt;182&lt;/Count&gt;
+                &lt;Last type="string"&gt;Fri Feb 15 21:19:39 2013&lt;/Last&gt;
               &lt;/ERightClick&gt;
             &lt;/Usage&gt;
           &lt;/TransducerLowerButtonSettings&gt;
@@ -2595,9 +2604,8 @@
             &lt;UpperPressureThreshold type="integer"&gt;81&lt;/UpperPressureThreshold&gt;
             &lt;Usage type="map"&gt;
               &lt;ELeftClick type="map"&gt;
-                &lt;Count type="integer"&gt;54&lt;/Count&gt;
-                &lt;Last type="string"&gt;Sat Dec 01 22:21:08 2012
-&lt;/Last&gt;
+                &lt;Count type="integer"&gt;78507&lt;/Count&gt;
+                &lt;Last type="string"&gt;Fri Feb 15 21:58:36 2013&lt;/Last&gt;
               &lt;/ELeftClick&gt;
             &lt;/Usage&gt;
           &lt;/TransducerTipButtonSettings&gt;
@@ -2608,11 +2616,11 @@
             &lt;Usage type="map"&gt;
               &lt;ELeftDoubleClick type="map"&gt;
                 &lt;Count type="integer"&gt;3&lt;/Count&gt;
-                &lt;Last type="string"&gt;Sat Dec 01 22:07:26 2012
-&lt;/Last&gt;
+                &lt;Last type="string"&gt;Sat Dec 01 22:07:26 2012&lt;/Last&gt;
               &lt;/ELeftDoubleClick&gt;
               &lt;ERadialMenu type="map"&gt;
-                &lt;Count type="integer"&gt;0&lt;/Count&gt;
+                &lt;Count type="integer"&gt;333&lt;/Count&gt;
+                &lt;Last type="string"&gt;Fri Feb 15 21:44:15 2013&lt;/Last&gt;
               &lt;/ERadialMenu&gt;
             &lt;/Usage&gt;
           &lt;/TransducerUpperButtonSettings&gt;
